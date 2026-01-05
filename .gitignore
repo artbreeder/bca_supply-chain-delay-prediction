@@ -1,0 +1,9 @@
+
+# ML artifacts
+artifacts/
+*.pkl
+
+# Python cache
+__pycache__/
+*.pyc
+
